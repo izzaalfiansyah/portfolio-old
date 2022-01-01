@@ -100,6 +100,15 @@ export const projects = [
         photo: ['fopegram.PNG', 'fopegram2.PNG', 'fopegram3.PNG']
     },
     {
+        name: 'PPDB SDUA',
+        description: 'Aplikasi Pendaftaran Siswa Baru SD Ummu Aiman',
+        team: true,
+        language: [
+            'CodeIgniter 3'
+        ],
+        photo: ['ppdb.PNG', 'ppdb2.PNG']
+        },
+    {
         name: 'Perpustakaan',
         description: 'Aplikasi E-Perpustakaan SDN Inpres Bhayangkara Kota Jayapura',
         team: true,
